@@ -1,0 +1,12 @@
+{
+  "name": "keyless-jwk",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Othent/keyless-jwk.git",
+  "author": "Lorimer Jenkins <lj@communitylabs.com>, Tate Berenbaum <tb@communitylabs.com>",
+  "license": "MIT",
+  "dependencies": {
+    "arweave": "^1.13.7"
+  },
+  "type": "module"
+}
